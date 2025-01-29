@@ -1,0 +1,10 @@
+print("你好")
+print（"欢迎使用登录程序"）
+print("请在下方输入你的用户名")
+a=input()
+print("你好")
+print(a)
+print("请输入密码")
+b=input
+print（"欢迎"）
+print(a)
